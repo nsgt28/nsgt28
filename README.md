@@ -1,16 +1,16 @@
-## Hi there 👋
+## Pangeran Nugroho 👨‍💻
 
-<!--
-**nsgt28/nsgt28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building things for the web. i write code. mostly TypeScript.
 
-Here are some ideas to get you started:
+- 🔭 Currently working at **PT Solusi Kreatif**
+- 🌱 Actively learning **Redis** & **Python**
+- 💬 Ask me about **Linux** or **software architecture**
+- ⚡ Fun fact: I drink way too much coffee ☕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- JavaScript
+- Linux
+- Redis
+- Python
+
+Reach me: [LinkedIn](https://linkedin.com/in/pangeran-nugroho-93) · [YouTube](https://youtube.com/@Pangeran93) · [Mastodon](https://mastodon.social/@pangeran.dev) · [Personal Site](https://pangeran.nugroho.me)
